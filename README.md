@@ -1,4 +1,6 @@
-## Oiii! Eu sou a Manoella Romay 
+## Oii!
+<h2> Me chamo Manoella Romay, </h2>
+<p> Frontend em construção e apaixonada por UI/UX </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
