@@ -1,6 +1,6 @@
-## Oii!
-<h2> Me chamo Manoella Romay, </h2>
-<p> Frontend em construção e apaixonada por UI/UX </p>
+## Olá
+### Me chamo Manoella Romay,
+###### Em transição de carreira para TI me apaixonei por UX/UI, Front end e Gestão de produtos, estou sempre em busca de novos conhecimentos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,9 +8,7 @@
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
- 
+  ## Me segue no LinkedIn :D
 <div> 
   <a href="https://www.linkedin.com/in/mariamanoella-romay/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
